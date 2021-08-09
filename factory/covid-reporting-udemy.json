@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-udemy",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4f92edb4-fda3-4f72-b108-21c69799e917",
+		"tenantId": "65f51067-7d65-4aa9-b996-4cc43a0d7111"
+	}
+}
