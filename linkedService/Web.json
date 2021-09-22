@@ -1,0 +1,15 @@
+{
+	"name": "Web",
+	"properties": {
+		"annotations": [],
+		"type": "Web",
+		"typeProperties": {
+			"url": "https://factpages.npd.no/ReportServer_npdpublic?/FactPages/tableview/wellbore_exploration_all&rs:Command=Render&rc:Toolbar=false&rc:Parameters=f&IpAddress=not_used&CultureCode=nb-no&rs:Format=CSV&Top100=false",
+			"authenticationType": "Anonymous"
+		},
+		"connectVia": {
+			"referenceName": "Selfhosted",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
